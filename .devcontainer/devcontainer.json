@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "nku_test",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
